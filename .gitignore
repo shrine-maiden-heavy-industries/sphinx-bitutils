@@ -1,0 +1,10 @@
+.pyc
+__pycache__/
+.eggs/
+*.egg-info/
+.venv/
+*.zip
+*.tar.*
+dist/
+_build/
+build/
