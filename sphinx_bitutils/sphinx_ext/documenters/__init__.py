@@ -10,7 +10,7 @@ __all__ = (
 )
 
 ALL_DOCUMENTERS = (
-	SubconstructDocumenter
+	SubconstructDocumenter,
 )
 
 

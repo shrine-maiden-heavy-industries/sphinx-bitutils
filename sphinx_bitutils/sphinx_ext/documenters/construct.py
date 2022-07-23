@@ -1,5 +1,6 @@
 # SPDX-License-Identifier: BSD-3-Clause
 
+from typing             import Union
 from enum               import IntEnum, Enum, auto, unique
 
 from sphinx.ext.autodoc import ModuleLevelDocumenter

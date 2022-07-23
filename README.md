@@ -1,6 +1,6 @@
 # sphinx-bitutils
 
-**WARNING:** This sphinx extension is still very much in beta! It might (read, will) break randomly.
+> **Warning** This sphinx extension is still very much in beta! It might (read, will) break randomly.
 
 This is a [sphinx](https://www.sphinx-doc.org/) addon that adds utilities to describe bitwise and bytewise binary structures in Sphinx without the need to resort to tables.
 
